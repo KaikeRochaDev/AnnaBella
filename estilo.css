@@ -22,6 +22,10 @@ body{
     padding: 10px;
 }
 
+#conteudo img {
+    margin-left: 100px;
+}
+
 a{
     color: #4d566a;
     text-decoration: none;
@@ -31,4 +35,18 @@ a{
 
 .centralizar{
     text-align: center;
+}
+
+.img-campanha{
+    border: 10px solid #c3c3ae;
+}
+
+.contato{
+    padding: 10px;
+    
+}
+
+h1{
+    color: #828271;
+    font-size: 1.5em;
 }
